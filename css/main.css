@@ -282,7 +282,6 @@ header .main-title h1 {
 /*-------------------------SECONDARY MENU EFFECT------------------------------*/
 #main {
     overflow: hidden;
-    width: 100%;
 }
 .margin-left {
     margin-left: 400px;
